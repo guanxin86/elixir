@@ -1,0 +1,2 @@
+# elixir
+elixirm命令
