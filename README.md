@@ -16,3 +16,7 @@ docker run -d \
   -p 17690:17690 \
   elixirprotocol/validator:v3
 ```
+### 查看日志
+```
+docker logs --tail 100 -f elixir
+```
